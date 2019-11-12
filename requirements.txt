@@ -4,3 +4,5 @@ selenium
 jsonpickle
 pony
 pymysql
+"Git is awesome" 
+conf was changed
