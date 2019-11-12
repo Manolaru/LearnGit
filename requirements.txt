@@ -6,4 +6,4 @@ pony
 pymysql
 "Git is awesome" 
 conf was changed
-adding a new release "1.1"
+adding a new release "1.231b"
