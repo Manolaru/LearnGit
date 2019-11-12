@@ -1,9 +1,11 @@
 pytest
 pytest_bdd
 selenium
-jsonpickle
-pony
 pymysql
 "Git is awesome" 
 conf was changed
+<<<<<<< HEAD
 adding a new release "1.231b"
+=======
+adding release "1.231b"
+>>>>>>> f711c1354901e284a3d80046299507c6600a8852
