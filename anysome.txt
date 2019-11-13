@@ -1,2 +1,2 @@
 A new file creation.
-Git is awesome
+Git is awesome .
