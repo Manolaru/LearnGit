@@ -1,1 +1,2 @@
 Creating other version via git
+New line
